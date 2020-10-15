@@ -1,0 +1,25 @@
+2020-09-20 03:36:41.4042 DEBUG  Debug message from the controller
+2020-09-20 03:36:41.4599 ERROR Error message from the controller
+2020-09-20 03:36:41.4716 INFO Error message from the Controller
+2020-09-20 03:36:41.4821 WARN Warning message from the controller
+2020-09-20 03:36:59.2100 INFO Return all the owners from database
+2020-09-20 03:54:40.6131 DEBUG  Debug message from the controller
+2020-09-20 03:54:40.6669 ERROR Error message from the controller
+2020-09-20 03:54:40.6669 INFO Error message from the Controller
+2020-09-20 03:54:40.6901 WARN Warning message from the controller
+2020-09-20 03:54:44.9422 INFO Return all the owners from database
+2020-09-20 04:09:37.8386 DEBUG  Debug message from the controller
+2020-09-20 04:09:37.9033 ERROR Error message from the controller
+2020-09-20 04:09:37.9033 INFO Error message from the Controller
+2020-09-20 04:09:37.9246 WARN Warning message from the controller
+2020-09-20 04:09:44.0724 INFO Return all the owners from database
+2020-09-20 04:14:05.8868 ERROR Something went wrong inside DeleteOwner action: An error occurred while updating the entries. See the inner exception for details.
+2020-09-20 04:16:24.6675 DEBUG  Debug message from the controller
+2020-09-20 04:16:24.6989 ERROR Error message from the controller
+2020-09-20 04:16:24.7215 INFO Error message from the Controller
+2020-09-20 04:16:24.7309 WARN Warning message from the controller
+2020-09-20 04:18:19.1681 DEBUG  Debug message from the controller
+2020-09-20 04:18:19.2162 ERROR Error message from the controller
+2020-09-20 04:18:19.2162 INFO Error message from the Controller
+2020-09-20 04:18:19.2364 WARN Warning message from the controller
+2020-09-20 04:18:24.2367 ERROR Cannot delete owner with id: 3ea41928-11f8-423c-9732-e8244f27b4fa. It has related accounts. Delete those accounts first

@@ -1,0 +1,21 @@
+2020-09-18 00:23:56.1633 INFO Return all the owners from database
+2020-09-18 00:42:45.8605 INFO Return all the owners from database
+2020-09-18 00:42:54.7246 INFO Returned owner id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-09-18 00:46:12.0549 INFO Return all the owners from database
+2020-09-18 00:54:38.8478 DEBUG  Debug message from the controller
+2020-09-18 00:54:38.9152 ERROR Error message from the controller
+2020-09-18 00:54:38.9262 INFO Error message from the Controller
+2020-09-18 00:54:38.9262 WARN Warning message from the controller
+2020-09-18 00:54:51.0848 INFO Return all the owners from database
+2020-09-18 01:12:16.5693 DEBUG  Debug message from the controller
+2020-09-18 01:12:16.7024 ERROR Error message from the controller
+2020-09-18 01:12:16.7283 INFO Error message from the Controller
+2020-09-18 01:12:16.7569 WARN Warning message from the controller
+2020-09-18 01:12:23.1882 INFO Return all the owners from database
+2020-09-18 01:16:51.4313 DEBUG  Debug message from the controller
+2020-09-18 01:16:51.4842 ERROR Error message from the controller
+2020-09-18 01:16:51.4958 INFO Error message from the Controller
+2020-09-18 01:16:51.5066 WARN Warning message from the controller
+2020-09-18 01:17:18.1883 INFO Returned owner id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-09-18 01:17:40.3833 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-09-18 01:18:30.6220 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa

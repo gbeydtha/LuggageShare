@@ -1,0 +1,14 @@
+2020-09-17 16:34:15.1094 DEBUG  Debug message from the controller
+2020-09-17 16:34:25.6613 ERROR Error message from the controller
+2020-09-17 16:34:25.8176 INFO Error message from the Controller
+2020-09-17 16:34:26.2014 WARN Warning message from the controller
+2020-09-17 22:38:30.4021 DEBUG  Debug message from the controller
+2020-09-17 22:38:30.4021 DEBUG  Debug message from the controller
+2020-09-17 22:38:30.7411 ERROR Error message from the controller
+2020-09-17 22:38:30.9682 ERROR Error message from the controller
+2020-09-17 22:38:31.1973 INFO Error message from the Controller
+2020-09-17 22:38:32.3642 INFO Error message from the Controller
+2020-09-17 22:38:33.5655 WARN Warning message from the controller
+2020-09-17 22:38:38.5824 WARN Warning message from the controller
+2020-09-17 23:34:59.8956 INFO Return all the owners from database
+2020-09-17 23:36:49.8983 INFO Return all the owners from database

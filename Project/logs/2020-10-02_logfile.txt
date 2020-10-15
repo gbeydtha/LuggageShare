@@ -1,0 +1,51 @@
+2020-10-02 02:52:45.1001 INFO Return all the owners from database
+2020-10-02 02:53:05.4013 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 02:53:10.8894 INFO Return all the owners from database
+2020-10-02 02:53:12.2403 INFO Returned owner with detail for id: 0f190f74-1b27-4e32-ae8b-c2be6eeb62e2
+2020-10-02 02:53:41.5845 INFO Return all the owners from database
+2020-10-02 02:54:09.7014 INFO Return all the owners from database
+2020-10-02 02:54:45.2117 INFO Returned owner with detail for id: 0f190f74-1b27-4e32-ae8b-c2be6eeb62e2
+2020-10-02 02:54:47.8931 INFO Return all the owners from database
+2020-10-02 02:54:49.0047 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 02:55:48.5069 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 03:00:52.3215 INFO Return all the owners from database
+2020-10-02 03:01:19.4130 INFO Return all the owners from database
+2020-10-02 03:03:00.4492 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 03:09:32.1401 INFO Return all the owners from database
+2020-10-02 03:09:33.9195 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 03:09:45.5600 INFO Return all the owners from database
+2020-10-02 03:09:46.7349 INFO Returned owner with detail for id: 0f190f74-1b27-4e32-ae8b-c2be6eeb62e2
+2020-10-02 03:09:55.8169 INFO Return all the owners from database
+2020-10-02 03:10:00.5538 INFO Returned owner with detail for id: 0f190f74-1b27-4e32-ae8b-c2be6eeb62e2
+2020-10-02 03:10:19.3913 INFO Return all the owners from database
+2020-10-02 03:10:21.5755 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 03:10:24.2609 INFO Return all the owners from database
+2020-10-02 03:10:30.4006 INFO Returned owner with detail for id: 0f190f74-1b27-4e32-ae8b-c2be6eeb62e2
+2020-10-02 03:13:19.9517 INFO Returned owner with detail for id: 0f190f74-1b27-4e32-ae8b-c2be6eeb62e2
+2020-10-02 03:13:22.8683 INFO Return all the owners from database
+2020-10-02 03:13:24.4517 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 03:14:10.1172 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 03:14:15.3850 INFO Return all the owners from database
+2020-10-02 03:14:16.6759 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 03:14:17.9033 INFO Return all the owners from database
+2020-10-02 03:14:18.7230 INFO Returned owner with detail for id: 0f190f74-1b27-4e32-ae8b-c2be6eeb62e2
+2020-10-02 03:14:20.3215 INFO Return all the owners from database
+2020-10-02 03:14:30.2953 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 03:14:38.3304 INFO Return all the owners from database
+2020-10-02 03:14:44.7490 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 03:15:30.2925 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 03:15:37.9161 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 03:15:43.2555 INFO Return all the owners from database
+2020-10-02 03:15:46.4930 INFO Return all the owners from database
+2020-10-02 12:57:32.5500 INFO Return all the owners from database
+2020-10-02 12:57:34.9658 INFO Return all the owners from database
+2020-10-02 12:57:36.1915 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 12:57:40.4457 INFO Return all the owners from database
+2020-10-02 12:57:41.8372 INFO Return all the owners from database
+2020-10-02 12:57:43.9761 INFO Returned owner with detail for id: 0f190f74-1b27-4e32-ae8b-c2be6eeb62e2
+2020-10-02 12:57:48.3308 INFO Return all the owners from database
+2020-10-02 12:57:50.4337 INFO Returned owner with detail for id: 3ea41928-11f8-423c-9732-e8244f27b4fa
+2020-10-02 12:57:55.5782 INFO Return all the owners from database
+2020-10-02 12:58:00.8946 INFO Returned owner with detail for id: 0f190f74-1b27-4e32-ae8b-c2be6eeb62e2
+2020-10-02 14:02:39.8432 INFO Returned owner with detail for id: 0f190f74-1b27-4e32-ae8b-c2be6eeb62e2
+2020-10-02 15:47:08.0276 INFO Return all the owners from database
